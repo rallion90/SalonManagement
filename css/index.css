@@ -1,0 +1,10 @@
+.jumbotron{
+	background-image: url('images/hero-background.jpg');
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	max-height: 100%;
+}
+
+/* nav*/
+
